@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Kubernetes , Docker , AWS (Amazon Web Services), Terraform , CI/CD Pipelines, Ansible , GitOps ,Jenkins**
 
-- 👯 I’m looking to collaborate on **Innovative DevOps and Cloud Projects with Industry Professionals**
+- 👯 Open to collaborate on **Innovative DevOps and Cloud Projects with Industry Professionals**
 
-- 🤝 I’m looking for help with **Enhancing DevOps Skills, Cloud Solutions, and Advanced Automation Projects**
+- 🤝 Seeking help in **Enhancing DevOps Skills, Cloud Solutions, and Advanced Automation Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChaitanyaNarang28/ChaitanyaNarang28](https://github.com/ChaitanyaNarang28/ChaitanyaNarang28)
 
