@@ -7,7 +7,7 @@
 
 - 🤝 Seeking help in **Enhancing DevOps Skills, Cloud Solutions, and Advanced Automation Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ChaitanyaNarang28](https://github.com/ChaitanyaNarang28-cn)
+- 👨‍💻 All of my projects are available at [https://github.com/ChaitanyaNarang28](https://github.com/ChaitanyaNarang28)
 
 - 📫 How to reach me **Email: chaitanyanarang12@gmail.com , LinkedIn: www.linkedin.com/in/chaitanya-narang/**
 
